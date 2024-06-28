@@ -4,7 +4,7 @@ h1 {
     font-style: normal;
   }
   
-  h2, ul{
+  h2, ul, span{
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 100;
