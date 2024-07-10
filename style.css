@@ -12,3 +12,7 @@ h1 {
     font-variation-settings:
       "slnt" 0;
   }
+  .flip-horizontal {
+    transform: scaleX(-1);
+  }
+  
